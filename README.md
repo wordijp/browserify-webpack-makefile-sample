@@ -13,10 +13,12 @@ Browserifyとwebpackでmakefileによるバンドルサンプルです、depend�
 ```
 # Browserify Ver
 $ cd browserify-sample
+$ npm install
 $ make depend
 $ make
 
 # webpack Ver
+$ npm install
 $ cd webpack-sample
 $ make depend
 $ make
